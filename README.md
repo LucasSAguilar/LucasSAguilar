@@ -19,4 +19,4 @@ Me chamo Lucas!
 
 </div> <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSAguilar&exclude_repo=github-readme-stats,LucasSAguilar.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSAguilar&exclude_repo=github-readme-stats,LucasSAguilar.github.io)](https://github.com/LucasSAguilar)
