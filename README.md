@@ -1,4 +1,4 @@
-### Olá, mundo!  👋
+### Olá, mundo! 👋
 Me chamo Lucas!
 
 [![blog](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://lucassaguilar.github.io/portfolio/)
