@@ -1,7 +1,7 @@
 ### Olá, mundo! 👋
 Me chamo Lucas!
 
-[![blog](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://lucassaguilar.github.io/portfolio/)
+[![blog](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)]([https://lucassaguilar.github.io/portfolio/](https://portfolio-lucassaguilar.vercel.app))
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasaguilardesenvolvedor/)
 [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucass_aguillar/)
 
