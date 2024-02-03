@@ -1,30 +1,48 @@
-# 👋 Olá, mundo! Eu sou o Lucas, Desenvolvedor Full Stack! 💻
+<h1 align="center">👋 Olá, mundo! Eu sou o Lucas</h1>
+<h4 align="center">Desenvolvedor fullstack</h4>
 
-[![blog](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://portfolio-lucassaguilar.vercel.app)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasaguilardesenvolvedor/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucass_aguillar/)
+<p align="center">
+  <a href="https://portfolio-lucassaguilar.vercel.app">
+    <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" alt="blog">
+  </a>
+  <a href="https://www.linkedin.com/in/lucasaguilardesenvolvedor/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+  <a href="https://www.instagram.com/lucass_aguillar/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+  </a>
+</p>
 
-![LucasSAguilar GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSAguilar&show_icons=true&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasSAguilar&show_icons=true&theme=dracula" alt="LucasSAguilar GitHub stats">
+</p>
 
-## 🚀 Tecnologias Queridas:
+<h2 align="center">🚀 Tecnologias Queridas:</h2>
 
-<div>
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</div>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSAguilar&layout=compact&theme=dracula" alt="Top Langs">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSAguilar&layout=compact&theme=dracula)](https://github.com/LucasSAguilar)
+<h2 align="center">🌟 Projetos e Contribuições Recentes:</h2>
 
-## 🌟 Projetos e Contribuições Recentes:
+<p align="center">
+  <a href="https://github.com/LucasSAguilar/github-readme-stats">
+    <img src="https://img.shields.io/badge/github--readme--stats-Repository%20Name-000000?style=for-the-badge&logo=github" alt="github-readme-stats">
+  </a>
+</p>
 
-![Recent Commits](https://gh-pinned-repos.now.sh/api/pin?username=LucasSAguilar&repo=github-readme-stats)
 
-## 📈 Estatísticas Adicionais:
+<h2 align="center">📈 Estatísticas Adicionais:</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasSAguilar&theme=dracula)](https://github.com/LucasSAguilar)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasSAguilar&theme=dracula" alt="GitHub Streak">
+</p>
