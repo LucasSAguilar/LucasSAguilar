@@ -31,18 +31,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSAguilar&layout=compact&theme=dracula" alt="Top Langs">
 </p>
-
-<h2 align="center">🌟 Projetos e Contribuições Recentes:</h2>
-
-<p align="center">
-  <a href="https://github.com/LucasSAguilar/github-readme-stats">
-    <img src="https://img.shields.io/badge/github--readme--stats-Repository%20Name-000000?style=for-the-badge&logo=github" alt="github-readme-stats">
-  </a>
-</p>
-
-
-<h2 align="center">📈 Estatísticas Adicionais:</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasSAguilar&theme=dracula" alt="GitHub Streak">
-</p>
