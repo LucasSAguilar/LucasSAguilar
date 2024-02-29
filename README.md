@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LucasSAguilar&show_icons=true&theme=dracula" alt="LucasSAguilar GitHub stats">
 </p>
 
-<h2 align="center">🚀 Principais técnologias:</h2>
+<h2 align="center">🚀 Principais tecnologias:</h2>
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
