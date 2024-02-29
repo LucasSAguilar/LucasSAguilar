@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, mundo! Eu sou o Lucas</h1>
+<h1 align="center">👋 Olá, mundo! Me chamo Lucas</h1>
 <h4 align="center">Desenvolvedor fullstack</h4>
 
 <p align="center">
