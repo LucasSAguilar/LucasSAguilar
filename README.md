@@ -42,3 +42,12 @@
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucassaguilar&layout=compact&hide_border=true&theme=dracula"><a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucassaguilar&theme=dracula" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
 </p>
+
+<div align="center">
+  <h1>🐍 Snakommits 🐍</h1>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasSAguilar/LucasSAguilar/snake-output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasSAguilar/LucasSAguilar/snake-output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasSAguilar/LucasSAguilar/snake-output/github-contribution-grid-snake.svg">
+    </picture>
+</div>
