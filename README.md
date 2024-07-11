@@ -17,6 +17,8 @@
   </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/lucassaguilar/lucassaguilar/output/snake.svg" alt="Snake animation" />
+
 <div>
   <h3>Eu gosto de...</h3>
   <br> </br>
