@@ -17,21 +17,6 @@
   </a>
 </p>
 
-
-<div>
-  <h3>Eu gosto de...</h3>
-  <br> </br>
-  <ul>
-    <li>👩‍💻 Codar</li>
-    <li>🎮 Jogar</li>
-    <li>📺 Assistir series e filmes</li>
-    <li>🧟‍♂️ Mistérios </li>
-    <li>☕ Café</li>
-  </ul>
-</div>
-
-<br><br>
-
 <h2 align="center">🚀 Principais tecnologias:</h2>
 
 <div align="center">
